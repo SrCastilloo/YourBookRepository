@@ -12,13 +12,15 @@ La idea es crear una herramienta propia que me permita llevar un control organiz
 
 Desarrollar una aplicación que me permita:
 
-- 📖 Registrar libros leídos  
-- 📝 Añadir notas y valoraciones  
+- 📖 Añadir un nuevo libro a cualquier sección (incluye toda la información correspondiente, como título, autor, género, descripción, página por la que voy si procede, foto, valoración, precio)
+- 📝  Quitar un libro de una sección cualquiera y añadirlos a otra sección.  
 - 📊 Llevar seguimiento del progreso de lectura  
-- 📚 Gestionar listas (pendientes, en lectura, leídos)  
-- 🔍 Buscar y filtrar libros fácilmente  
+- 📚 Ser capaz de actualizar cualquier aspecto relacionado con la información del libro.
+- 🔍 Ser capaz de buscar libros por su título, género/categoría, autor.  
 
 Este proyecto nace como iniciativa personal para mejorar mis habilidades de desarrollo mientras construyo algo útil para mí.
+
+(La aplicación constará de 3 secciones: libros que me quiero leer, libros que me estoy leyendo, libros que me he leído y libros favoritos)
 
 ---
 
