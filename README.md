@@ -37,27 +37,6 @@ Este repositorio irá evolucionando, pero algunas posibles tecnologías:
 
 🟡 En fase inicial — planificación y definición de requisitos.
 
----
-
-## 🎯 Motivación
-
-Este proyecto no solo busca gestionar libros, sino también:
-
-- Practicar buenas prácticas de desarrollo  
-- Aplicar arquitectura limpia  
-- Mejorar diseño de interfaces  
-- Versionar correctamente con Git  
-- Aprender algo nuevo en el proceso  
-
----
-
-## 📈 Futuras mejoras
-
-- Exportación de datos  
-- Estadísticas de lectura  
-- Sistema de recomendaciones  
-- Integración con APIs externas  
-- Versión móvil  
 
 ---
 
