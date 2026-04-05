@@ -28,9 +28,9 @@ Este proyecto nace como iniciativa personal para mejorar mis habilidades de desa
 
 Este repositorio irá evolucionando, pero algunas posibles tecnologías:
 
-- Backend: *(por definir)*  
-- Frontend: *(por definir)*  
-- Base de datos: *(por definir)*  
+- Backend: *Node JS + express*  
+- Frontend: *Kotlin + Jecpack Compose*  
+- Base de datos: *MongoDB*  
 - Control de versiones: Git  
 
 ---
