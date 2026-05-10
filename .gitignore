@@ -36,3 +36,5 @@ google-services.json
 
 .env
 .vscode/
+node_modules/
+code/node_modules/
